@@ -1,7 +1,5 @@
 # BOOKING_HOTEL
 A Complete (Full Stack) MERN BOOKING Project
-### [Dream Hotel Booking](https://dreambooking.netlify.app)
-
 ###
 
 <img src="https://res.cloudinary.com/dzghsspe7/image/upload/v1662156277/booking/jbmnvzggbu9orngvbx0r.png" alt="Moto-Repair" border="0" />
